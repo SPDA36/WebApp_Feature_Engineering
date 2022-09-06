@@ -1,13 +1,12 @@
 
 # Machine Learning Feature Engineering Web Application
 
-Missing values are a critical issue when building a 
-machine learning model.  This web app us used to 
-demonstrate a technique to impute missing 
-values.  This is a simple web app and only 
-focuses on imputing missing values.
+This web application is a demonstration of using feature engineering
+to build a model and have it deployment ready for end users.
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/111393900/188516900-b510bf8e-b283-43e3-8e76-5dd25a42f106.png)
+![image](https://user-images.githubusercontent.com/111393900/188516929-9b9704cd-19f2-44c9-b297-0dfa34f81c1a.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
